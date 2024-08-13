@@ -1,0 +1,11 @@
+ENLACES DATASETS
+https://www.kaggle.com/datasets/secareanualin/football-events
+https://www.kaggle.com/datasets/samruddhim/olympics-althlete-events-analysis
+https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023
+https://www.kaggle.com/datasets/arnabchaki/indian-restaurants-2023
+https://www.kaggle.com/datasets/jcraggy/asian-restaurants
+https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-usa
+https://www.kaggle.com/datasets/gayu14/taylor-concert-tours-impact-on-attendance-and
+https://www.kaggle.com/datasets/dmytroievdokymov/metallica-concerts-data
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
